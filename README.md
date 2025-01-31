@@ -20,10 +20,12 @@ Download the script.
 
 Give it executable permissions:
 
-chmod +x system_report.sh
+chmod +xsystem_monitoring_script.sh 
+
 
 Run the script:
 
-./system_report.sh
+./system_monitoring_script.sh 
+
 
 The report will be displayed in the terminal and saved as report.log.
