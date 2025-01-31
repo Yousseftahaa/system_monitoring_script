@@ -1,0 +1,20 @@
+=== System Report ===
+Generated on: Sun Jan 26 12:12:15 PM EET 2025
+
+=== Disk Usage ===
+
+
+=== CPU Usage ===
+
+=== Memory Usage ===
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.4Gi       1.9Gi        13Mi       731Mi       2.4Gi
+Swap:          974Mi          0B       974Mi
+
+=== Top 5 Memory-Consuming Processes ===
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+youssef+    1672  2.6  7.9 3832808 315720 ?      Ssl  11:39   0:51 /usr/bin/gnome-shell
+youssef+    1905  0.2  5.1 1096452 203872 ?      Sl   11:39   0:03 /usr/bin/gnome-software --gapplication-service
+youssef+    2206  0.0  2.0 548280 81076 ?        Ssl  11:40   0:00 /usr/libexec/gsd-xsettings
+youssef+    1909  0.0  1.8 859772 75192 ?        Sl   11:39   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+youssef+    2121  0.0  1.6 229732 67172 ?        S    11:39   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.GHTY02 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7
