@@ -1,20 +1,22 @@
-=== System Report ===
-Generated on: Sun Jan 26 12:12:15 PM EET 2025
-
-=== Disk Usage ===
-
-
-=== CPU Usage ===
-
-=== Memory Usage ===
+System Report 
+started on: Fri Jan 31 11:24:02 AM EET 2025
+ Disk Usage 
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.9G     0  1.9G   0% /dev
+tmpfs           389M  1.4M  387M   1% /run
+/dev/sda1        19G  6.2G   12G  36% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           389M   88K  388M   1% /run/user/1000
+ CPU Usage 
+ Memory Usage 
                total        used        free      shared  buff/cache   available
-Mem:           3.8Gi       1.4Gi       1.9Gi        13Mi       731Mi       2.4Gi
+Mem:           3.8Gi       1.3Gi       2.0Gi        13Mi       726Mi       2.5Gi
 Swap:          974Mi          0B       974Mi
-
-=== Top 5 Memory-Consuming Processes ===
+ Top 5 Memory-Consuming Processes 
 USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-youssef+    1672  2.6  7.9 3832808 315720 ?      Ssl  11:39   0:51 /usr/bin/gnome-shell
-youssef+    1905  0.2  5.1 1096452 203872 ?      Sl   11:39   0:03 /usr/bin/gnome-software --gapplication-service
-youssef+    2206  0.0  2.0 548280 81076 ?        Ssl  11:40   0:00 /usr/libexec/gsd-xsettings
-youssef+    1909  0.0  1.8 859772 75192 ?        Sl   11:39   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
-youssef+    2121  0.0  1.6 229732 67172 ?        S    11:39   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.GHTY02 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7
+youssef+    1632  1.9  6.8 3807952 273944 ?      Ssl  10:55   0:32 /usr/bin/gnome-shell
+youssef+    1835  0.1  4.1 742164 163088 ?       Sl   10:55   0:03 /usr/bin/gnome-software --gapplication-service
+youssef+    2162  0.0  2.0 548296 80360 ?        Ssl  10:56   0:00 /usr/libexec/gsd-xsettings
+youssef+    1844  0.0  1.8 859740 75344 ?        Sl   10:56   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+youssef+    2070  0.0  1.6 229396 67012 ?        S    10:56   0:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.DDZ402 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7
