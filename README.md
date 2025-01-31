@@ -28,6 +28,6 @@ Run the script:
 ./system_monitoring_script.sh 
 
 example outtput 
-https://github.com/Yousseftahaa/system_monitoring_script/blob/main/942808bf-a89a-446d-93c8-f045fa660633.jpeg
+(https://github.com/Yousseftahaa/system_monitoring_script/blob/main/942808bf-a89a-446d-93c8-f045fa660633.jpg)
 
 The report will be displayed in the terminal and saved as report.log.
